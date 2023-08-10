@@ -6,7 +6,7 @@ Kesency is a technology consulting company that provides a variety of services t
 ## Services 🛠️
 Our services include:
 
-* **Web Development**: Our web development team builds custom websites and web applications tailored to the unique needs of our clients. We use the latest technologies and frameworks to create fast, responsive, and visually stunning web experiences. 🌐
+* **Web Development**: Our web development team builds custom websites and web applications tailored to the unique needs of our clients. We use the latest technologies and frameworks to create responsive and visually stunning web experiences. 🌐
 
 * **Mobile Application Development**: Our mobile development team creates custom mobile applications for iOS and Android platforms. We have experience with a wide range of mobile technologies and frameworks, and we work closely with our clients to create apps that are engaging, user-friendly, and intuitive. 📱
 
